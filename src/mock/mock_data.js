@@ -517,6 +517,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
+  "title": "福利驿",
   "search": "bing"
 }
